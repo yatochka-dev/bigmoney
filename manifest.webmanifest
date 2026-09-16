@@ -1,0 +1,13 @@
+{
+  "name": "Big Money Ledger",
+  "short_name": "Big Money",
+  "description": "Remote-synced personal spending and credit-card ledger",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0a0e17",
+  "theme_color": "#0a0e17",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
